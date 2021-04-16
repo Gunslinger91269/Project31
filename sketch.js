@@ -13,10 +13,10 @@ var thunder1, thunder2, thunder3;
 var umblla;
 
 function preload(){
-  man_image = loadImage("Man.png");
-  thunder1 = loadImage("thunder1.png");
-  thunder2 = loadImage("thunder2.png");
-  thunder3 = loadImage("thunder3.png");
+  man_image = loadImage("PICS/Man.png");
+  thunder1 = loadImage("PICS/thunder1.png");
+  thunder2 = loadImage("PICS/thunder2.png");
+  thunder3 = loadImage("PICS/thunder3.png");
 }
 
 function setup(){
